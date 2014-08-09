@@ -1,7 +1,7 @@
-[ ] jump around
-[ ] jump around
-[ ] jump up
-[ ] jump up
+[.] jump around
+[.] jump around
+[.] jump up
+[.] jump up
 [ ] and get down
 [ ] jump around
 
