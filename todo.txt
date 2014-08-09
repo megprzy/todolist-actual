@@ -2,5 +2,7 @@
 [ ] jump around
 [ ] jump up
 [ ] jump up
-[ ] get down
+[ ] and get down
 [ ] jump around
+
+
