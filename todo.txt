@@ -4,5 +4,5 @@
 [x] jump up
 [ ] and get down
 [ ] jump around
-
+[ ] bite me
 [ ] .........
